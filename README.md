@@ -1,8 +1,8 @@
 ### Hi there, I'm Manish  👋
 
-- 🔭 I’m currently working on a MERN Stack project
-- 🌱 I’m currently learning everything 🤣
-- 💬 Ask me about Git, Github, NodeJS 
+- 🔭 I’m currently working on a Personal Portfolio
+- 🌱 I’m currently learning GSAP 
+- 💬 Ask me about Git, Github, JavaScript, TypeScript, React.js Next.js or Frontend in General
 - ⚡ Fun fact: I am rapper, cuber, and an astronomy fanatic
 <hr/>
 
